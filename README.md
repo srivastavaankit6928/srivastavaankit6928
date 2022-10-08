@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Srivastava
 - 👀 I’m interested in Singing, coding and designing
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my Gmail or insta account i.e,Sri_ank.
 
